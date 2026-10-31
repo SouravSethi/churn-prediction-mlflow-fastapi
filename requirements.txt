@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+pandas
+pydantic
+scikit-learn==1.7.2
+#pip install fastapi uvicorn pandas pydantic scikit-learn
